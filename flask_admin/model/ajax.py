@@ -1,4 +1,4 @@
-DEFAULT_PAGE_SIZE = 10
+DEFAULT_PAGE_SIZE = 20
 
 
 class AjaxModelLoader(object):
